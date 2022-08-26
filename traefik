@@ -1,7 +1,7 @@
 /var/log/traefik/*.log {
-    hourly
+    daily
     missingok
-    rotate 4
+    rotate 10
     compress
     create
     maxsize 40M
