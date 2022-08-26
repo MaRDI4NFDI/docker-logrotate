@@ -3,6 +3,7 @@
     missingok
     rotate 10
     compress
+    delaycompress
     create
     maxsize 40M
 }
