@@ -1,3 +1,6 @@
+# NOTE: This repository is not needed anymore and thus archived
+(reason: traefik logs can only be rotated from the host system)
+
 # docker-logrotate
 
 Logrotation for docker-compose services.
